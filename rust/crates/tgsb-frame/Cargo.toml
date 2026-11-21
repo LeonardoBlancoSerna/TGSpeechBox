@@ -1,0 +1,9 @@
+[package]
+name = "tgsb-frame"
+version = "0.1.0"
+edition.workspace = true
+license.workspace = true
+description = "ABI-stable frame, FrameEx and VoicingTone structs for the TGSpeechBox Rust port"
+
+[lib]
+name = "tgsb_frame"
