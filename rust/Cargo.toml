@@ -1,0 +1,8 @@
+[workspace]
+resolver = "2"
+members = ["crates/tgsb-frame", "crates/tgsb-dsp"]
+
+[workspace.package]
+edition = "2021"
+license = "MIT"
+repository = "https://github.com/LeonardoBlancoSerna/TGSpeechBox"

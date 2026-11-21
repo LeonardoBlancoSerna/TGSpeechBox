@@ -1,0 +1,13 @@
+name	lang	speed	sample_rate	time_stretch	voicing_tone	frames	pcm_samples
+en-us_base_11025	en-us	1.00	11025	1.0	0	78	18453
+en-us_slow_16000	en-us	0.50	16000	1.0	0	86	51349
+en-us_rate16_22050	en-us	1.60	22050	1.0	0	77	25138
+en-us_2x_44100	en-us	2.00	44100	1.0	0	77	43090
+en-us_3x_16000	en-us	3.00	16000	1.0	0	77	12422
+en-us_stretch2_16000	en-us	2.00	16000	2.0	0	77	7878
+en-us_tone_16000	en-us	1.00	16000	1.0	1	78	26741
+hu_base_16000	hu	1.00	16000	1.0	0	60	26118
+hu_affricates_22050	hu	1.60	22050	1.0	0	46	20848
+es_taps_16000	es	1.00	16000	1.0	0	148	46476
+es_3x_22050	es	3.00	22050	1.0	0	48	10064
+pt_oi_16000	pt	1.00	16000	1.0	0	28	13968
